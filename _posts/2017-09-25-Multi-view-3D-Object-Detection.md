@@ -20,8 +20,8 @@ the LIDAR perceiving the depth information of the setting and the RGB images per
 
 ## Content:
 ### The LIDAR Sensor:
-<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-example.jpg" alt="Drawing" style="width: 100px; height: 100px;"/>
-<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-velodyne.png" alt="Drawing" style="width: 100px; height: 100px;"/>
+<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-example.jpg" alt="Drawing" style="width: 30px; height: 30px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-velodyne.png" alt="Drawing" style="width: 30px; height: 30px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
 Let's dig a bit deeper into the LIDAR sensor. The LIDAR ("**Li**ght **D**etection **A**nd **R**anging" or "**L**ight **I**maging,
 **D**etection **A**nd **R**anging" go ahead and pick the acronym you like the best) is essentially a tool used for measuring distance 
 to a target. 
