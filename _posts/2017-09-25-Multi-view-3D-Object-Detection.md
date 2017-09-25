@@ -20,9 +20,9 @@ the LIDAR perceiving the depth information of the setting and the RGB images per
 
 ## Content:
 ### The LIDAR Sensor:
-<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-example.jpg" alt="Drawing" style="width: 100px; height: 100px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-velodyne.png" alt="Drawing" style="width: 100px; height: 100px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
-<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/kitti-dataset-car.jpg" alt="Drawing" style="width: 100px; height: 100px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-example.jpg" alt="Drawing" style="width: 200px; height: 200px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/lidar-velodyne.png" alt="Drawing" style="width: 200px; height: 200px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/SimonBuusJensen/SimonBuusJensen.github.io/master/images/kitti-dataset-car.jpg" alt="Drawing" style="width: 200px; height: 200px; float: left; margin-right: 1%; margin-bottom: 0.5em;"/>
 <p style="clear: both;">
 Let's dig a bit into the LIDAR sensor. The LIDAR (Originally a portmanteau of *light* and *radar* but sometimes used as an acronym for "**Li**ght **D**etection **A**nd **R**anging") is essentially a tool used for measuring distances to objects. 
 The above image shows an example of a high-end LIDAR sensor from Velodyne. Other producers of the LIDAR sensor are Continental, BOSCH and LeddarTech. LIDAR was invented back in the 1960's just shortly after the laser was invented. 
