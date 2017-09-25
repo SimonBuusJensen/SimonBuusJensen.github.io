@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 I'm a second year graduate student at IT University of Copenhagen, Denmark. I'm majoring in Computer Science and specializing in Machine Learning and Algorithms.
