@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a second year graduate student at IT University of Copenhagen majoring in Computer Science and specializing in Machine Learning and Algorithms.
+I'm a second year graduate student at IT University of Copenhagen, Denmark. I'm majoring in Computer Science and specializing in Machine Learning and Algorithms.
 
-I'm currently doing my Master thesis project at Daimler AG in Ulm, Germany on Autonous Vehicles and Deep learning.
+I'm Currently doing my Master Thesis project with Daimler AG with focus on Driverless vehicles and Deep Learning.
 
 ### Contact me
 
