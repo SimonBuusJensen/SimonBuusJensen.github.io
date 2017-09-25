@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a second year graduate student at IT University of Copenhagen majoring in Computer Science and specializing in Machine Learning and Algorithms.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently doing my Master thesis project at Daimler AG in Ulm, Germany on Autonous Vehicles and Deep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[simonbuusjensen@hotmail.com](mailto:simonbuusjensen@hotmail.com)
