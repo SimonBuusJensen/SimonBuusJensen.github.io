@@ -2,7 +2,7 @@
 layout: post
 title: Review of "Multi-View 3D Object Detection Network for Autonomous Driving"
 permalink: /3D-object-detection-network-for-autonomous driving
-published: true
+published: false
 ---
 ## Task list
 - [x] Write an introduction
